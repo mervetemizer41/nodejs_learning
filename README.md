@@ -6,9 +6,7 @@ This document is about getting a NodeJS application environment ready and probab
 
 ### Development environment readiness process
 
-I followed the [Microsoft tutorial here](https://learn.microsoft.com/tr-tr/azure/app-service/quickstart-nodejs?tabs=windows&pivots=development-environment-vscode)
-
-New is always exciting!
+I followed the [Microsoft tutorial here](https://learn.microsoft.com/tr-tr/azure/app-service/quickstart-nodejs?tabs=windows&pivots=development-environment-vscode).
 
 Then I download the .msi package and installed by simply visiting [NodeJS web site](https://nodejs.org/tr), and select the LTS version.
 
